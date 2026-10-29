@@ -37,6 +37,36 @@ namespace assigment4
             //Console.WriteLine(sb);
 
             #endregion
+
+
+            #region Question4
+
+            //StringBuilder sb = new StringBuilder("Book List - Updated");
+
+            //sb.Replace("Book List", "Library");
+
+            //Console.WriteLine(sb);
+
+            #endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
