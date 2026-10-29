@@ -1,4 +1,6 @@
-﻿namespace assigment4
+﻿using System.Text;
+
+namespace assigment4
 {
     internal class Program
     {
@@ -22,6 +24,17 @@
             //string str2 = "Clean Code";
 
             //Console.WriteLine(object.ReferenceEquals(str1, str2));
+
+            #endregion
+
+            #region Question3
+
+            //StringBuilder sb = new StringBuilder();
+
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+
+            //Console.WriteLine(sb);
 
             #endregion
         }
