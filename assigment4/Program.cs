@@ -182,7 +182,16 @@ namespace assigment4
             #endregion
 
 
+            #region Question15
 
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+
+            #endregion
 
 
 
